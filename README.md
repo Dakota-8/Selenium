@@ -1,4 +1,2 @@
-# Selenium
-Ссылка на курс: https://stepik.org/course/575/
-
-Название курса: "Автоматизация тестирования с помощью Selenium и Python"
+<h1>Selenium Course</h1>
+<p>Прохождение курса <a href="https://stepik.org/course/575/"> "Автоматизация тестирования с помощью Selenium и Python"</a>
